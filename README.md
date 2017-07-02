@@ -1,2 +1,2 @@
-# Read me first
-You need a PHP WEB SERVER TO MAKE THIS WORK!!!
+# Info
+This is the official site for apollobots.herokuapp.com 
