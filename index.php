@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="description" content="A Discord Bot list!">
   <meta name="keywords" content="bots, discord, servers, list, mello, turbomarshmello, ohlookitsderpy, derpy, noahliedfilm, noah">
-  <meta name="author" content="Turbomarshmello">
+  <meta name="author" content="Turbomarshmello, ohlookitsderpy, noahliedfilm">
   <link rel="stylesheet" href="CSS/style.css">
      <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
